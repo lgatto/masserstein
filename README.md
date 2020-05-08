@@ -14,7 +14,7 @@ To be able to use the software provided in this repository, you will need to hav
 * `scipy`
 * `PuLP`
 
-After installing these packages, download or clone this repository. In the commandline, this can be done by typing:
+After installing these packages, download or clone this repository. On the commandline, this can be done by typing:
 
 ```
 git clone https://github.com/mciach/wassersteinms.git
